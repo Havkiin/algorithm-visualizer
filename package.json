@@ -1,7 +1,6 @@
 {
-  "name": "algorithm-visualizer",
-  "private": true,
-  "version": "0.0.0",
+  "name": "sorting-algorithm-visualizer",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
