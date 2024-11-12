@@ -7,3 +7,7 @@ Visualizer for common sorting algorithms.
 
 ## NPM
 `npm install sorting-algorithm-visualizer`
+
+### Example implementation
+
+[https://www.clementhennebelle.com/projects/algorithm-visualizer](https://www.clementhennebelle.com/algorithm-visualizer)
